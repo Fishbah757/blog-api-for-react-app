@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "title": "Nikitos757",
+      "body": "Hello my friend!",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 2,
+      "body": "super"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "body": "try"
+    }
+  ]
+}
